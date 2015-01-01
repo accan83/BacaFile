@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tool()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Reader\n
+comment1.params=path
+comment1.target=java.lang.String\ bacaFile(java.lang.String)
+comment1.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n
+comment2.params=path\ isi
+comment2.target=void\ tulisFile(java.lang.String,\ java.lang.String)
+numComments=3

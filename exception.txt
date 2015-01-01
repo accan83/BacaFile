@@ -1,0 +1,12 @@
+flow of event:
+-primary
+-alternate
+-error
+
+contoh:
+
+try{
+	[primary]
+}catch(Exception e){
+	[error]
+}
